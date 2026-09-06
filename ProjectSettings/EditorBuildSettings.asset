@@ -1,0 +1,475 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreens/Menu.unity
+    guid: 272850e2462ca0d4d9537afa5fd89201
+  - enabled: 1
+    path: Assets/Scenes/MainScreens/CharacterSelect.unity
+    guid: 6edd96ab18441984690aa1ac87888946
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/LevelSelect(Pacer).unity
+    guid: 4d72719ceb097b04fb8c9531bcc26779
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Intro's/Level1(Intro)Pacer.unity
+    guid: 47e1890f6537cd840be70f45d1dd6937
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Level1(Pacer).unity
+    guid: e42eb11847ca41847a2cf1a622306b60
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/DeathScreen/Death1Pacer.unity
+    guid: 7f7fd03e9b38e544c88b85f67cfa6f2c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Intro's/Level2(Intro)Pacer.unity
+    guid: 394dcbb837bc1384793f6f41b0e36bda
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Level2(Pacer).unity
+    guid: 0bec3539ad2e0d74abfa64e9c826c6ec
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/DeathScreen/Death2Pacer.unity
+    guid: a7b643b47d7501b418c9f21e0c1c44a5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Intro's/Level3(Intro)Pacer.unity
+    guid: 1d12666f06aaea54795c66f800224a00
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Level3(Pacer).unity
+    guid: 18942bb29fe5df34d9b5709683183010
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/DeathScreen/Death3Pacer.unity
+    guid: 2119a45fd03368847a9c7b2a59cbfa9a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Intro's/Level4(Intro)Pacer.unity
+    guid: a020ebe08bfa9be4c824ec7ec2bf636d
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Level4(Pacer).unity
+    guid: 4163d29698e20544690d415f53bf9bc9
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/DeathScreen/Death4Pacer.unity
+    guid: 13db341d113925b49bdb4ad88e0a5a65
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Intro's/Level5(Intro)Pacer.unity
+    guid: 4db1437589063424aa5a47210153f923
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Level5(Pacer).unity
+    guid: 9848db944033a184e9bc939476709b59
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/DeathScreen/Death5Pacer.unity
+    guid: 1d8bfce41b1fb3f4f8d3c9d5aa48e8b5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Pacer/Intro's/MissionOverPacer.unity
+    guid: e7c53f440e5799b4f86e9028e5b76649
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/LevelSelect(Buster).unity
+    guid: 0b2838a334eb015418c5e006a18f58bc
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Intro's/Level1(Intro)Buster.unity
+    guid: 8a88fc4b54c9efd4eb261f684b324e17
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Level1(Buster).unity
+    guid: b7a2c2d62ea549442a77c0ca5cdf1d9e
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/DeathScreen/Death1Buster.unity
+    guid: 35ec508522f98ed47a32be8c67901fa8
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Intro's/Level2(Intro)Buster.unity
+    guid: 8f38b491c0acbcb49889827dffd8730d
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Level2(Buster).unity
+    guid: 5f2a067ae04c2bf4db03068d0f44eaee
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/DeathScreen/Death2Buster.unity
+    guid: 1581e45d659b76f4fa23531ebacb39f1
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Intro's/Level3(Intro)Buster.unity
+    guid: 3c566cae5524ea5449978d366cf01356
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Level3(Buster).unity
+    guid: 5be39c0343f557140b6e23aa25c0a932
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/DeathScreen/Death3Buster.unity
+    guid: f61267ee5de99604fb7880f81c813834
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Intro's/Level4(Intro)Buster.unity
+    guid: f518f45b650d0a745b9ca874707adff1
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Level4(Buster).unity
+    guid: c7d6c67eaee276748969c46ffbff2090
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/DeathScreen/Death4Buster.unity
+    guid: ab93b28c603bfca429fb84ae79c0cbda
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Intro's/Level5(Intro)Buster.unity
+    guid: 64ca5dac2b0937f41ab5a63365981d29
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Level5(Buster).unity
+    guid: 23616e415c7d5a6478f5e5cbd76887e5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/DeathScreen/Death5Buster.unity
+    guid: 94acf7ba004319043bb44cd8b2c19377
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Buster/Intro's/MissionOverBuster.unity
+    guid: 528c103919a640f44a02a89d936ed8e0
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/LevelSelect(Gastino).unity
+    guid: 2b1b6fa722cff2441a2600bc0b2aa7bd
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Intro's/Level1(Intro)Gastino.unity
+    guid: 22ef0e2a41f58fc418b192076fb2b751
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Level1(Gastino).unity
+    guid: e9235debb7da11f449751c16d2e8364c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/DeathScreen/Death1Gastino.unity
+    guid: e614d3efdc407af40a8b4e9fa83fa11c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Intro's/Level2(Intro)Gastino.unity
+    guid: 88f1eb3cd0498bb43b697e690cb73a5f
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Level2(Gastino).unity
+    guid: 7dcf7f5098e932942a5a4214ab8bf240
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/DeathScreen/Death2Gastino.unity
+    guid: f10483a22f5035342a3d8c938923c44d
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Intro's/Level3(Intro)Gastino.unity
+    guid: 395ae370beebfb941a49350eb285d6f4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Level3(Gastino).unity
+    guid: 3e98f087ff25b7d479f8f6de2206c17a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/DeathScreen/Death3Gastino.unity
+    guid: fd8fc12240d8dab468d3a923003a46a5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Intro's/Level4(Intro)Gastino.unity
+    guid: 6e82914f4effc444c8b7eb3cd536d270
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Level4(Gastino).unity
+    guid: 6172939181eb681429a45302849fa08c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/DeathScreen/Death4Gastino.unity
+    guid: 9144f0d056130d84dad1f6358cfeb3c6
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Intro's/Level5(Intro)Gastino.unity
+    guid: 1da9f441203b91b42afedfd2f34116c7
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Level5(Gastino).unity
+    guid: 1267dddc6bcd5044e8f05d3453e19337
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/DeathScreen/Death5Gastino.unity
+    guid: 702aa84c6325ff148a72d5c1ae656c96
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Gastino/Intro's/MissionOverGastino.unity
+    guid: 63a813fce2c25b34b8efdc6b9215a331
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/LevelSelect(Xebec).unity
+    guid: eff67b52db267bb4ab99686d7d2d675e
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Intro's/Level1(Intro)Xebec.unity
+    guid: c8728eb18c8d60849858117f2024a424
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Level1(Xebec).unity
+    guid: 7cafa2af616fd3141a01256a24b19d05
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/DeathScreen/Death1Xebec.unity
+    guid: 1099ae0f28d26cd47b8d2c525c45ff5b
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Intro's/Level2(Intro)Xebec.unity
+    guid: 65a3293e334e36c46a50d1923cee4c79
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Level2(Xebec).unity
+    guid: 70e3461ad3ea0624a9b9f960cc8afbcf
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/DeathScreen/Death2Xebec.unity
+    guid: 3f2bece5caf5e0a47ab3ade617848155
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Intro's/Level3(Intro)Xebec.unity
+    guid: 3311e4255729ca744b26d8624bc3d934
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Level3(Xebec).unity
+    guid: a0ac9d5b7871cb849acef81cfc671d3c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/DeathScreen/Death3Xebec.unity
+    guid: 03463af3b08c7f843b573e95998284dc
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Intro's/Level4(Intro)Xebec.unity
+    guid: 1fae1eacdd5f1894a9e04d818d06d4c2
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Level4(Xebec).unity
+    guid: e6098137f6be4f244a3f701a9f406417
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/DeathScreen/Death4Xebec.unity
+    guid: b29b81f8851568c4d970d44405f9a2e2
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Intro's/Level5(Intro)Xebec.unity
+    guid: ba4d878ecd925c24db74072532d8b5c4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Level5(Xebec).unity
+    guid: 4c9d3af9df15c384fa3a35401dea0420
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/DeathScreen/Death5Xebec.unity
+    guid: b2610d1d3d72fc84ab06096f775d4f32
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Xebec/Intro's/MissionOverXebec.unity
+    guid: 9c93b0ee928725041914a4d80c094c50
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/LevelSelect(Hendrix).unity
+    guid: 505345f35f185764ab7f2f0e27a4dc1c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Intro's/Level1(Intro)Hendrix.unity
+    guid: 9d765c700be220f42a04b6ead108497a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Level1(Hendrix).unity
+    guid: c7ddf2fb929cfba4d99ad238f27ea2b6
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/DeathScreen/Death1Hendrix.unity
+    guid: 266c7f69d85076045b1b39f7430619ce
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Intro's/Level2(Intro)Hendrix.unity
+    guid: 1cfb36f4e60468b4b82521282c81afb4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Level2(Hendrix).unity
+    guid: 619a841117384134ab7a328e376858b8
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/DeathScreen/Death2Hendrix.unity
+    guid: a4a8adfc77c518445bf711804a0fc174
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Intro's/Level3(Intro)Hendrix.unity
+    guid: 1936d7962c7d1dd4e80ecb00a0c16060
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Level3(Hendrix).unity
+    guid: 0bd56b69669528941a3744517b5ac8e4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/DeathScreen/Death3Hendrix.unity
+    guid: bf4ebef5fe7c30a45ab4683fc03f1f5a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Intro's/Level4(Intro)Hendrix.unity
+    guid: e4a8a030f8f098b44be5274bab684ac1
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Level4(Hendrix).unity
+    guid: 62a59e5a8a2225e4ab550a747c59c5c7
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/DeathScreen/Death4Hendrix.unity
+    guid: 56075d0fbd373c447aa707274a20e859
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Intro's/Level5(Intro)Hendrix.unity
+    guid: a664bcd28525fab4db17ca548e1353ee
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Level5(Hendrix).unity
+    guid: 5170ddb5449f3714aa5552673bc12131
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/DeathScreen/Death5Hendrix.unity
+    guid: aefc983b58861b74596ab4a7e25e8732
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Hendrix/Intro's/MissionOverHendrix.unity
+    guid: 8fcb0b32f676f5749a7c610160c4c3fb
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/LevelSelect(BigBata).unity
+    guid: eb22b70a5296195459e53787931cdd76
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Intro's/Level1(Intro)BigBata.unity
+    guid: 01257329e0223d4409f0e10f3663607e
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Level1(BigBata).unity
+    guid: 12f54a23d10490f49b04270073606add
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/DeathScreen/Death1BigBata.unity
+    guid: a04c8b13494ae394f8dcd711bcf57d3a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Intro's/Level2(Intro)BigBata.unity
+    guid: 100b5025987242749a6390ae3107e4c7
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Level2(BigBata).unity
+    guid: 55f3cc3423d3cbb4c9ddb4d9b19194ae
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/DeathScreen/Death2BigBata.unity
+    guid: f5d3e60233a30524ebf7d5ed4473303d
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Intro's/Level3(Intro)BigBata.unity
+    guid: 225e93f1d6ea0a546841c91cd726736e
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Level3(BigBata).unity
+    guid: b6fb51cc81325324c9ab22f13bc7cb2f
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/DeathScreen/Death3BigBata.unity
+    guid: 7861d6842c0c7be42a8918d95e2ee9c3
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Intro's/Level4(Intro)BigBata.unity
+    guid: 1b962f5219e0db04da768efe744b270d
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Level4(BigBata).unity
+    guid: 5badfc8239e428640b70a28b2eddb167
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/DeathScreen/Death4BigBata.unity
+    guid: 78866762ab34ba246a32a2f37f616aed
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Intro's/Level5(Intro)BigBata.unity
+    guid: 1684860622d217a45a714064969a52e7
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Level5(BigBata).unity
+    guid: 75a01a08b929d0b4c9d11741bc1f97f8
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/DeathScreen/Death5BigBata.unity
+    guid: 10ed5f5893643c54fb9f88b17095a524
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/BigBata/Intro's/MissionOverBigBata.unity
+    guid: e02e8ac91c587014b8e25d913d2feed4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/LevelSelect(Macky).unity
+    guid: aea9225b8e1549e4abea24ec0d64a32b
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Intro's/Level1(Intro)Macky.unity
+    guid: 8a0500aa991d1aa4dabce81fab56a99b
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Level1(Macky).unity
+    guid: 53b2a242c87b9ab41b113160c9fac8f2
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/DeathScreen/Death1Macky.unity
+    guid: 85554699c57869a46bda257eca93762f
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Intro's/Level2(Intro)Macky.unity
+    guid: 31125fae41a8a2c4d8a5ee77980c593d
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Level2(Macky).unity
+    guid: 664f9ff693430a94aa32e2956ae2735f
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/DeathScreen/Death2Macky.unity
+    guid: afddaa2007f3eaf4b8ff27f4e45877fe
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Intro's/Level3(Intro)Macky.unity
+    guid: a1172e9827814f047a29b50a8f53cdb3
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Level3(Macky).unity
+    guid: 43e636712809f734cb87a66488a31aa5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/DeathScreen/Death3Macky.unity
+    guid: 0e53007ffc28b5e4194a34f2e19c56e5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Intro's/Level4(Intro)Macky.unity
+    guid: 13f9e014fcaabb242acb098a9121c12e
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Level4(Macky).unity
+    guid: af150670d10b72f4b824535fe59a8e0e
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/DeathScreen/Death4Macky.unity
+    guid: 214f5906e16f4d54183636889670905b
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Intro's/Level5(Intro)Macky.unity
+    guid: adf4c691b36bdb04a98f1189801d3c07
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Level5(Macky).unity
+    guid: 0bc333ef8c80eda45996f93da927992f
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/DeathScreen/Death5Macky.unity
+    guid: 64f581f0ad66bc54db4acdaf7f7a975a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Macky/Intro's/MissionOverMacky.unity
+    guid: eb6a0e798db0b5e4f8f3b06f7c451af1
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/LevelSelect(Rodeo).unity
+    guid: f69871b270411d0458a1bc7ffa9a0235
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Intro's/Level1(Intro)Rodeo.unity
+    guid: fe1b2e79ca9a6ad44b5e128d4aac6e7a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Level1(Rodeo).unity
+    guid: 24d40ad5426733a4fa8e87e4439c49fc
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/DeathScreen/Death1Rodeo.unity
+    guid: d3639aaa47743e943b60c268d0faf6b9
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Intro's/Level2(Intro)Rodeo.unity
+    guid: 05c753dba3c7ab945befaa9c64c91b34
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Level2(Rodeo).unity
+    guid: 0e7f0ae529ce9724a9ecf4669a1fb83c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/DeathScreen/Death2Rodeo.unity
+    guid: ad85f67723d27a74890464d7f117bbaa
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Intro's/Level3(Intro)Rodeo.unity
+    guid: f691ba565267b53458553aa899313f16
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Level3(Rodeo).unity
+    guid: 7be7102f101f4e9439d1c15d39d55b70
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/DeathScreen/Death3Rodeo.unity
+    guid: 664229479a287e2428144b26ee5fc8ef
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Intro's/Level4(Intro)Rodeo.unity
+    guid: 5f0c33982643a71489f97abd25d2364c
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Level4(Rodeo).unity
+    guid: 2979685d029e28640880ee2514ed92b5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/DeathScreen/Death4Rodeo.unity
+    guid: f5244cfeba4de254a93c0c5cf13ba8eb
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Intro's/Level5(Intro)Rodeo.unity
+    guid: a0b151d6c168666479adc05f77c23e65
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Level5(Rodeo).unity
+    guid: e18b97e48d93aa545af96130481b40d4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/DeathScreen/Death5Rodeo.unity
+    guid: 5494c86c930a5294cb4490b89908fd77
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Rodeo/Intro's/MissionOverRodeo.unity
+    guid: f4ca7fa864120cd4980305dda62583c6
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/LevelSelect(Glamour).unity
+    guid: c2b20ebe7fd929046b14528c9682aca5
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Intro's/Level1(Intro)Glamour.unity
+    guid: 5132b3be353a2164590207601a7a1ca3
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Level1(Glamour).unity
+    guid: 51123016b2727ea48a6d9bd65bd2309a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/DeathScreen/Death1Glamour.unity
+    guid: c2c0b2748c6b34043bb339947da11eb1
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Intro's/Level2(Intro)Glamour.unity
+    guid: c195f1d874f350446b73b22c4fe5aab9
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Level2(Glamour).unity
+    guid: d0fae14f7f0edcc438cd4b528982c011
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/DeathScreen/Death2Glamour.unity
+    guid: ea84c9f3087344c4b9494a7bb0d2e53a
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Intro's/Level3(Intro)Glamour.unity
+    guid: 547b90a2f1804ca488a4cbfdfae34eab
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Level3(Glamour).unity
+    guid: ee5358251cd162e438f5d01341d6cdde
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/DeathScreen/Death3Glamour.unity
+    guid: a03f54d0bb09a8246a60228a32740965
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Intro's/Level4(Intro)Glamour.unity
+    guid: 0d8eda41d2aaefc4893297ee5d562731
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Level4(Glamour).unity
+    guid: 7370e240f8052974281faf9b086c7932
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/DeathScreen/Death4Glamour.unity
+    guid: 5c2c6d707d81062479cc268fada3e285
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Intro's/Level5(Intro)Glamour.unity
+    guid: 5da2d48a232b9e54da4e3889a6baa4de
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Level5(Glamour).unity
+    guid: 377156c865634854ba53cfbc8050edf4
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/DeathScreen/Death5Glamour.unity
+    guid: dcff1af1735ac9542bbafca4dfb88fbe
+  - enabled: 1
+    path: Assets/Scenes/CharcterLevels/Glamour/Intro's/MissionOverGlamour.unity
+    guid: 6aa5696dca05f37428e4d20865878a14
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
