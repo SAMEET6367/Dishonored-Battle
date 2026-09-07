@@ -48240,6 +48240,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LoadSceneOnDeath
   attributesManager: {fileID: 902834254}
   sceneNumber: 0
+--- !u!54 &902834261 stripped
+Rigidbody:
+  m_CorrespondingSourceObject: {fileID: 6531223432857808880, guid: af6ccf7d5a31cda42a4399522894736d, type: 3}
+  m_PrefabInstance: {fileID: 735389016753157991}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &903776488
 GameObject:
   m_ObjectHideFlags: 0
@@ -102482,6 +102487,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3689681956223331033, guid: af6ccf7d5a31cda42a4399522894736d, type: 3}
+      propertyPath: rb
+      value: 
+      objectReference: {fileID: 902834261}
     - target: {fileID: 3941818488900963897, guid: af6ccf7d5a31cda42a4399522894736d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.2

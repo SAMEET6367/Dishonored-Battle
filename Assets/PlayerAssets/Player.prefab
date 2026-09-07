@@ -373,8 +373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   speed: 30
-  dashSpeed: 15
-  dashDuration: 0.5
+  rb: {fileID: 6531223432857808880}
 --- !u!114 &8696837156185301593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -386,11 +385,18 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2cd8f4602e4e5584888e8a7afbc3f87a, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: '::'
-  rb: {fileID: 6531223432857808880}
-  jumpForce: 40
-  jumpInterval: 0.1
-  fallMultiplier: 8
+  m_EditorClassIdentifier: Assembly-CSharp::jump
+  rb: {fileID: 0}
+  jumpForce: 26
+  maxGroundAngle: 45
+  isGroundedDebugView: 0
+  coyoteTime: 0.15
+  jumpBufferTime: 0.15
+  fallMultiplier: 3.5
+  lowJumpMultiplier: 2
+  maxFallSpeed: 20
+  apexThreshold: 2
+  apexMultiplier: 2
 --- !u!114 &4855513653060263846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -489,12 +495,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   audioSource: {fileID: 1326054853023526912}
-  walkSound: {fileID: 8300000, guid: 369f4673c65c1f74aa44c35f90eadf9a, type: 3}
+  playerJump: {fileID: 0}
+  walkSounds:
+  - {fileID: 8300000, guid: a8e53377ad1625d41993e888ffa26282, type: 3}
+  - {fileID: 8300000, guid: a8e53377ad1625d41993e888ffa26282, type: 3}
+  - {fileID: 8300000, guid: 62cbe9f2edf9bf443a7b137b376284e7, type: 3}
+  - {fileID: 8300000, guid: 62cbe9f2edf9bf443a7b137b376284e7, type: 3}
   shootSound: {fileID: 8300000, guid: 13629d3c3398aad4b80ab9952a571bf3, type: 3}
   jumpSound: {fileID: 8300000, guid: 05ada5841c2b9f34b95c85dcc3269de6, type: 3}
   walkInterval: 1
   shootInterval: 0.5
   jumpInterval: 1.5
+  minPitch: 0.92
+  maxPitch: 1.08
 --- !u!114 &4763989210751105882
 MonoBehaviour:
   m_ObjectHideFlags: 0
